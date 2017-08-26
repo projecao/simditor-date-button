@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/projecao/simditor-date-button.git"
   },
-  "keywords": [],
+  "keywords": ["simditor", "plugin", "date-button"],
   "author": "Antério Vieira",
   "license": "ISC",
   "dependencies": {
