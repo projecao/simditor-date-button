@@ -1,6 +1,6 @@
 {
   "name": "simditor-date-button",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Date Button",
   "main": "lib/simditor-date-button.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+ssh://git@github.com/projecao/simditor-date-button.git"
   },
-  "keywords": ["simditor", "plugin", "date-button"],
+  "keywords": [
+    "simditor",
+    "plugin",
+    "date-button"
+  ],
   "author": "Antério Vieira",
   "license": "ISC",
   "dependencies": {
